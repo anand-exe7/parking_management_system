@@ -1,0 +1,25 @@
+{
+    "parked_vehicles": {
+        "1": {
+            "vehicle": "TN05BB1234",
+            "type": "Car",
+            "owner": "AS",
+            "phone": "123456789",
+            "entry_time": "2025-10-22 19:11:32"
+        }
+    },
+    "history": [
+        {
+            "vehicle": "TN",
+            "type": "Car",
+            "owner": "A",
+            "entry_time": "2025-10-22 07:11 PM",
+            "exit_time": "2025-10-22 07:12 PM",
+            "duration": 0.0,
+            "fee": 20
+        }
+    ],
+    "reserved_spots": [
+        2
+    ]
+}
